@@ -1,0 +1,29 @@
+# Dependencies
+client/node_modules
+server/node_modules
+
+# Environment
+server/.env
+
+# Build output
+client/dist
+server/dist
+
+# Uploads / generated media
+server/uploads
+
+# Logs
+*.log
+# Build and output folders
+bin/
+build/
+dist/
+out/
+*.obj
+*.class
+*.exe
+*.dll
+*.zip
+*.mp4
+*.jpg
+*.png

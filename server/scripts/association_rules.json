@@ -1,0 +1,68 @@
+[
+  {
+    "antecedents":[
+      "Cascading Style Sheet"
+    ],
+    "consequents":[
+      "Hyper Text Markup Language"
+    ],
+    "confidence":0.5,
+    "support":0.25,
+    "lift":1.0
+  },
+  {
+    "antecedents":[
+      "Hyper Text Markup Language"
+    ],
+    "consequents":[
+      "Cascading Style Sheet"
+    ],
+    "confidence":0.5,
+    "support":0.25,
+    "lift":1.0
+  },
+  {
+    "antecedents":[
+      "Cascading Style Sheet"
+    ],
+    "consequents":[
+      "Javascript"
+    ],
+    "confidence":0.75,
+    "support":0.375,
+    "lift":1.5
+  },
+  {
+    "antecedents":[
+      "Javascript"
+    ],
+    "consequents":[
+      "Cascading Style Sheet"
+    ],
+    "confidence":0.75,
+    "support":0.375,
+    "lift":1.5
+  },
+  {
+    "antecedents":[
+      "React"
+    ],
+    "consequents":[
+      "Javascript"
+    ],
+    "confidence":1.0,
+    "support":0.25,
+    "lift":2.0
+  },
+  {
+    "antecedents":[
+      "Javascript"
+    ],
+    "consequents":[
+      "React"
+    ],
+    "confidence":0.5,
+    "support":0.25,
+    "lift":2.0
+  }
+]
